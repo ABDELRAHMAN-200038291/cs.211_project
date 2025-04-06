@@ -90,3 +90,7 @@ def LexicalAnalyzer(code):
 code = "result = old_sum - value / 100;"
 
 LexicalAnalyzer(code)
+
+
+print (" Made by Abdulrahmn mohamed")
+print ("iD: 200038291")
