@@ -91,6 +91,9 @@ code = "result = old_sum - value / 100;"
 
 LexicalAnalyzer(code)
 
+print("                             ")
 
-print (" Made by Abdulrahmn mohamed")
+
+
+print ("Made by Abdulrahmn mohamed")
 print ("iD: 200038291")
